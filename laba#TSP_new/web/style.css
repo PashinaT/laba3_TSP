@@ -1,0 +1,34 @@
+h1{
+    color: #FFFB28 ;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+input
+{
+    font-size: 25px;
+    width: 80%;
+
+}
+INPUT.text {
+    border: 1px solid yellow; /* Исходная рамка вокруг поля */
+    width: 80%; /* Ширина поля */
+    font-size: 25px;
+}
+.focus {
+    font-size: 25px;
+    border: 1px solid blue; /* Рамка при получении фокуса */
+    width: 80%; /* Ширина поля */
+    background: yellow;
+}
+table{
+    width: 700px;
+}
+body{
+    background:url("fon.jpg");
+}
+
